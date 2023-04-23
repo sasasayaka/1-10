@@ -125,8 +125,9 @@ footer{
   }
   
   .step-box {
-    width: 100%;
+    width: 90%;
     display: block;
+    margin: 0 auto;
     margin-bottom: 10px;
     padding: 10px;
     position: relative;
@@ -148,8 +149,9 @@ footer{
   }
   
   .step-box {
-    width: 100%;
+    width: 90%;
     display: block;
+    margin: 0 auto;
     margin-bottom: 10px;
     padding: 10px;
     position: relative;
@@ -169,11 +171,15 @@ footer{
   main{
   width: 100%;
   display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
   }
   
   .step-box {
-    width: 100%;
+    width: 90%;
     display: block;
+    margin: 0 auto;
     margin-bottom: 10px;
     padding: 10px;
     position: relative;
